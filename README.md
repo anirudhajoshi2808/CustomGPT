@@ -2,6 +2,9 @@
 
 This app generates responses based on prompts related to O'Reilly's "Introduction to Machine Learning with Python" book using the GPT-2 language model. Contains jupyter notebook with model implementation and streamlit app for user interface.
 
+![img](https://i.imgur.com/eByDtb0.png)
+
+
 ## Getting Started
 
 1. Install the required packages:
