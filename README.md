@@ -1,8 +1,8 @@
 # Prompt Generator for Data Science Engg Tools and Methods
 
-This app generates responses based on prompts related to O'Reilly's "Introduction to Machine Learning with Python" book using the GPT-2 language model. Contains jupyter notebook with model implementation and streamlit app for user interface.
+This app generates responses based on prompts related to O'Reilly's "Introduction to Machine Learning with Python" book using the GPT-2 language model. Contains jupyter notebook with model implementation and streamlit app for user interface. It has 4 conversation starters and followup prompts. 
 
-![img](https://i.imgur.com/eByDtb0.png)
+![img](https://i.imgur.com/wTb7Zct.png)
 
 
 ## Getting Started
